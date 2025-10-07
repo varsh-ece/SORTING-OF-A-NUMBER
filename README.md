@@ -21,13 +21,12 @@ To write and execute an Assembly Language Program for sorting data in Ascending 
 
 ## Program (Ascending order)
 
-```asm
+
 
 
 <img width="594" height="656" alt="image" src="https://github.com/user-attachments/assets/4b035e91-9c65-4dff-baa7-15667cb67423" />
 
 
-```
 ## OUTPUT(Ascending order)
 
 <img width="1217" height="595" alt="image" src="https://github.com/user-attachments/assets/e8ba9626-354a-4fdf-9577-45597c0113f7" />
